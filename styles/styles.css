@@ -23,7 +23,6 @@ header {
 }
 header h1 {
     position: relative;
-    top: 30px;
     bottom: -.95em;
     padding-top: 40px;
     font-size: 50px;
@@ -31,6 +30,7 @@ header h1 {
 }
 
 .subpage h1 {
+    top: 30px;
     padding-left: 20px;
     color: #fff;
     text-shadow: none;
